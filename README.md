@@ -10,5 +10,9 @@ Jalankan program dengan command node `app.js`
 
 - Counter attack (sp4m) API telegram
 - Bikin list API telegram yang mau dijadikan target dalam file `.txt`
-- Tolong sertakan End Point API bahwa benar scammer.
 - Send request ke multiple API secara bersamaan.
+
+# Catatan
+
+- Tolong upload sertakan bukti di commit bahwa tersangka benar scammer.
+- Gunakan dengan baik dan bijak.
